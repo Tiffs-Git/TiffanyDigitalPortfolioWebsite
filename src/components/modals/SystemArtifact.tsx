@@ -22,7 +22,7 @@ export default function SystemArtifact({ onClose }: Props) {
 
       <div className="mb-8">
         <a
-          href={https://mitsloan.mit.edu/ideas-made-to-matter/how-to-boost-curiosity-your-company-and-why}
+          href={SYSTEM_ARTIFACT_ARTICLE_URL}
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center gap-2 text-teal-300 hover:text-teal-200 text-sm underline underline-offset-4 decoration-teal-600/50 hover:decoration-teal-400 transition-colors"
