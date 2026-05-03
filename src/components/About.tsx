@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
-import { Flame, Heart, Plane, ZAP } from 'lucide-react';
+import { Flame, Heart, Plane, cpu } from 'lucide-react';
 import SystemArtifact from './modals/SystemArtifact';
 import profilePhoto from '../assets/comply365-london.jpeg';
 import hangarPhoto from '../assets/hangar.jpeg';
@@ -100,7 +100,7 @@ export default function About() {
                     { icon: <Flame size={12} />, label: 'Hot Yoga' },
                     { icon: <Heart size={12} />, label: 'Cat Mom' },
                     { icon: <Plane size={12} />, label: 'Traveling' },
-                    { icon: <ZAP size={12} />, label: 'Techy' },
+                    { icon: <cpu size={12} />, label: 'Techy' },
                   ].map((h) => (
                     <span key={h.label} className="flex items-center gap-1.5 text-xs px-3 py-1.5 rounded-full border border-fuchsia-600/40 bg-fuchsia-900/20 text-fuchsia-300 font-medium">
                       {h.icon}
