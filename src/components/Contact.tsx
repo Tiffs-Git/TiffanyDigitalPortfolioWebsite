@@ -38,7 +38,7 @@ export default function Contact() {
         <div className="reveal mb-10">
           <h2 className="font-display text-4xl md:text-5xl text-warm-100 leading-tight mb-4">
             Let's Build Something<br />
-            <span className="text-gradient-teal">Systematic</span>
+            <span className="text-gradient-teal">Futuristic</span>
           </h2>
           <p className="text-warm-300/70 text-lg leading-relaxed max-w-xl">
             Whether you need a framework built, a messy system untangled, or a perspective on compliance and digital transformation—let's connect.
