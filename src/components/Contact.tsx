@@ -2,9 +2,9 @@ import { useEffect, useRef } from 'react';
 import { Mail, Linkedin, MessageSquare, MapPin, CheckCircle2, Clock, Briefcase } from 'lucide-react';
 
 const availableFor = [
-  'Speaking on systems optimization',
-  'Consulting on digital transformation & compliance',
-  'Mentoring on process improvement',
+  'AI Agent design and multi-step workflow automation',
+  'Compliance automation - from requirement mapping to deployable solutions',
+  'Digital transformation for legacy systems integration',
 ];
 
 export default function Contact() {
