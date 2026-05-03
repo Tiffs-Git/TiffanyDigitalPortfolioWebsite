@@ -18,9 +18,9 @@ const pillars = [
     bg: 'bg-teal-900/20',
   },
   {
-    icon: Settings,
-    title: 'Enterprise Integration',
-    desc: 'Connecting disparate platforms—SharePoint, Smartsheet, Comply365, HR systems—into unified, trackable workflows.',
+    icon: Agent,
+    title: 'Agent Orchestration',
+    desc: 'Building customized AI Agents to manage repetitive workflows that you can trust.',
     color: 'text-copper-400',
     border: 'border-copper-600/30',
     bg: 'bg-copper-600/10',
