@@ -82,7 +82,7 @@ export default function About() {
                 <div>
                   <h3 className="font-display text-2xl text-warm-100 leading-tight">Tiffany Castro</h3>
                   <p className="text-teal-300/80 text-xs mt-0.5 tracking-wide">
-                    Regulatory Systems Architect · Aviation · Compliance Infrastructure · AI &amp; Automation
+                    Regulatory Systems Architect · Compliance Infrastructure · AI &amp; Automation
                   </p>
                 </div>
               </div>
