@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import { Menu, X, FileText, Linkedin, Github } from 'lucide-react';
 
 // TODO: Replace placeholders with real URLs before pushing to GitHub
-const RESUME_URL = '../public/Tiffany_Castro_International_Resume_2026_Updated.pdf'; // drop your resume PDF into the public/ folder
+const RESUME_URL = 'https://github.com/TiffOnTour83/public/Tiffany_Castro_International_Resume_2026_Updated.pdf'; // drop your resume PDF into the public/ folder
 const LINKEDIN_URL = 'https://www.linkedin.com/in/tiffany-castro-00679a1a1';
 const GITHUB_URL = 'https://github.com/TiffOnTour83';
 
