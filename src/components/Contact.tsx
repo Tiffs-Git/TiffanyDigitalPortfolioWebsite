@@ -121,7 +121,7 @@ export default function Contact() {
 
             <div className="mt-8 pt-5 border-t border-teal-800/30">
               <a
-                href="mailto:tiffanycastro83@yahoo.com"
+                href="mailto:tiffanycastro83@yahoo.com?subject=Discovery with Tiffany"
                 className="w-full flex items-center justify-center gap-2 px-6 py-3 bg-gold-500 hover:bg-gold-400 text-navy-950 font-semibold text-sm tracking-widest uppercase rounded transition-all duration-200 glow-gold"
               >
                 <Mail size={15} />
