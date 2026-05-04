@@ -49,7 +49,7 @@ export default function Contact() {
           {/* Contact card */}
           <div className="reveal card-base border-gold-700/30 space-y-5">
             <a
-              href="mailto:tiffanycastro83@yahoo.com"
+              href="mailto:tiffanycastro83@yahoo.com?subject=Inquiry Request for Tiffany"
               className="flex items-center gap-3 group"
             >
               <div className="w-9 h-9 rounded-lg bg-gold-800/40 border border-gold-700/40 flex items-center justify-center group-hover:bg-gold-700/50 transition-colors">
